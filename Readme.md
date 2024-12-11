@@ -1,3 +1,4 @@
+![logo](https://github.com/Aditya7594/Aditya7594/blob/main/prol.png)
 <h1 align="center">Hi 👋, I'm Aditya Nayak</h1>
 <h3 align="center">A passionate frontend And backend developer from India</h3>
 
